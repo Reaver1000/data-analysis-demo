@@ -1,0 +1,11 @@
+{
+  "week": 17,
+  "year": 2026,
+  "generated_at": "2026-04-22T16:12:57.996585",
+  "outputs": [
+    "revenue_trend.png",
+    "category_breakdown.png",
+    "regional_distribution.png",
+    "customer_segments.png"
+  ]
+}
