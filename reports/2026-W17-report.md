@@ -1,7 +1,7 @@
 # Weekly Data Analysis Report
 
 **Week 17, 2026**  
-**Generated: 2026-04-22 16:12**
+**Generated: 2026-04-22 20:47**
 
 ---
 
@@ -9,10 +9,10 @@
 
 | Metric | Value |
 |--------|-------|
-| Total Revenue | $1,000,203.96 |
-| Total Orders | 11,256 |
-| Avg Order Value | $88.86 |
-| Unique Customers | 10,594 |
+| Total Revenue | $963,682.42 |
+| Total Orders | 10,851 |
+| Avg Order Value | $88.81 |
+| Unique Customers | 10,204 |
 
 ---
 
@@ -20,11 +20,11 @@
 
 | Category | Revenue | % of Total |
 |----------|---------|------------|
-| Home & Garden | $319,554.49 | 31.9% |
-| Electronics | $288,167.62 | 28.8% |
-| Sports | $199,946.67 | 20.0% |
-| Beauty | $123,549.69 | 12.4% |
-| Books | $68,985.49 | 6.9% |
+| Home & Garden | $300,026.66 | 31.1% |
+| Electronics | $267,913.08 | 27.8% |
+| Sports | $210,384.93 | 21.8% |
+| Beauty | $118,791.05 | 12.3% |
+| Books | $66,566.70 | 6.9% |
 
 ---
 
@@ -32,19 +32,19 @@
 
 | Segment | Count | % of Base |
 |---------|-------|-----------|
-| At Risk | 7,872 | 74.3% |
-| New | 2,259 | 21.3% |
-| Loyal | 263 | 2.5% |
-| Potential | 200 | 1.9% |
+| At Risk | 7,561 | 74.1% |
+| New | 2,223 | 21.8% |
+| Loyal | 223 | 2.2% |
+| Potential | 197 | 1.9% |
 
 ---
 
 ## Key Insights
 
 1. **Revenue Growth**: Monthly revenue shows consistent growth trend
-2. **Top Category**: Home & Garden leads with $319,554.49
-3. **Customer Retention**: 263 loyal/champion customers
-4. **At-Risk Customers**: 7,872 customers need re-engagement
+2. **Top Category**: Home & Garden leads with $300,026.66
+3. **Customer Retention**: 223 loyal/champion customers
+4. **At-Risk Customers**: 7,561 customers need re-engagement
 
 ---
 
