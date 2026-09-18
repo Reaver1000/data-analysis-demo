@@ -1,5 +1,5 @@
 # E-Commerce Sales Analysis Report
-Generated: 2026-04-22 14:41
+Generated: 2026-09-18 14:20
 
 ## Executive Summary
 
@@ -9,26 +9,26 @@ This analysis covers 1,000 orders across 200 customers and 50 products.
 
 ### Revenue by Category
 Top performing categories:
-- **Sports**: $335,732 (466 orders)
-- **Books**: $327,779 (516 orders)
-- **Home**: $222,626 (339 orders)
+- **Sports**: $315,767 (488 orders)
+- **Clothing**: $273,946 (400 orders)
+- **Books**: $246,231 (460 orders)
 
 ### Customer Segmentation
 Average LTV by segment:
-- **Standard**: $6,582 LTV (103 customers)
-- **Premium**: $6,557 LTV (38 customers)
-- **Basic**: $6,215 LTV (59 customers)
+- **Basic**: $6,527 LTV (53 customers)
+- **Standard**: $6,187 LTV (109 customers)
+- **Premium**: $6,173 LTV (38 customers)
 
 ### Monthly Trends
-- Peak revenue month: **2024-12** ($145,074)
-- Average monthly revenue: **$106,720**
+- Peak revenue month: **2024-06** ($130,888)
+- Average monthly revenue: **$104,053**
 
 ### Product Affinity (Frequently Bought Together)
-- Product J1 + Product E2 (8 times)
-- Product L1 + Product X2 (8 times)
-- Product T1 + Product W1 (8 times)
-- Product G1 + Product K1 (7 times)
-- Product L1 + Product U1 (7 times)
+- Product K1 + Product A2 (8 times)
+- Product T1 + Product Z1 (8 times)
+- Product W1 + Product U2 (8 times)
+- Product B1 + Product O1 (7 times)
+- Product D1 + Product M1 (7 times)
 
 ## Visualizations
 

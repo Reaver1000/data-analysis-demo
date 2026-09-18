@@ -1,6 +1,8 @@
-# E-Commerce Sales Analysis Dashboard
+# E-Commerce Sales Analysis
 
-A complete data analysis pipeline demonstrating SQL queries, Python pandas, and data visualization. Shows how to transform raw transaction data into actionable insights.
+A reproducible SQL and Python analysis pipeline for synthetic e-commerce data. It loads transaction data, calculates commercial metrics, produces charts, and exports an executive report.
+
+The project is designed to demonstrate the complete path from raw data to decision-ready output, including data cleaning, customer segmentation, trend analysis, and product performance.
 
 ## What This Demonstrates
 
@@ -24,7 +26,7 @@ Synthetic e-commerce transaction data (1,000+ orders) including:
 
 ```bash
 # Install dependencies
-pip install pandas matplotlib sqlite3
+pip install pandas matplotlib
 
 # Run analysis
 python analyze.py
@@ -147,36 +149,24 @@ Raw Data (CSV)
 - **Matplotlib**: Static visualizations
 - **Python 3.10+**: Core language
 
-## Files
+## Repository layout
 
 ```
 data-analysis-demo/
-├── analyze.py          # Main analysis script
-├── queries/            # SQL query files
-│   ├── revenue.sql
-│   ├── ltv.sql
-│   ├── retention.sql
-│   └── affinity.sql
-├── data/
-│   └── sales_data.csv  # Raw transaction data
-├── charts/             # Generated visualizations
-│   ├── revenue_trend.png
-│   ├── category_breakdown.png
-│   └── cohort_heatmap.png
-└── reports/
-    └── executive_summary.md
+├── analyze.py                    # Main analysis script
+├── charts/                       # Representative visualisations
+├── reports/                      # Generated executive reports
+├── outputs/                      # Timestamped analysis exports
+└── latest.json                   # Latest run metadata
 ```
 
-## Running Locally
+## Running locally
 
 ```bash
-python analyze.py --output ./output
-
-# Options:
-#   --data PATH      Custom data path
-#   --output PATH    Output directory
-#   --format png/svg Chart format
+python analyze.py
 ```
+
+The script writes charts, CSV analysis outputs, and a Markdown executive summary to the repository's output directories.
 
 ## Extending
 

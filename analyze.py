@@ -292,24 +292,24 @@ def main():
     conn = create_database(args.data)
     
     # Run analyses
-    print("\n📊 Analyzing revenue by category...")
+    print("\nAnalyzing revenue by category...")
     category_df = analyze_revenue_by_category(conn)
     print(category_df.to_string(index=False))
     
-    print("\n👥 Analyzing customer LTV...")
+    print("\nAnalyzing customer LTV...")
     ltv_df = analyze_customer_ltv(conn)
     print(ltv_df.to_string(index=False))
     
-    print("\n📈 Analyzing monthly trends...")
+    print("\nAnalyzing monthly trends...")
     trends_df = analyze_monthly_trends(conn)
     print(trends_df.to_string(index=False))
     
-    print("\n🔗 Analyzing product affinity...")
+    print("\nAnalyzing product affinity...")
     affinity_df = analyze_product_affinity(conn)
     print(affinity_df.to_string(index=False))
     
     # Generate report
-    print("\n📝 Generating report...")
+    print("\nGenerating report...")
     report = generate_report(category_df, ltv_df, trends_df, affinity_df)
     print("\n" + "=" * 50)
     print("Report saved to reports/executive_summary.md")
