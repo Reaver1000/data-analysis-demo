@@ -186,3 +186,14 @@ For roles requiring data analysis skills, this demonstrates:
 - Data pipeline architecture
 - Business insight generation
 - Clean, documented code
+
+---
+
+## Author
+
+**David Buchan** — Junior AI Engineer & Data Analyst
+- Fully remote worldwide · Erfurt, Germany (UK citizen)
+- Skills: Python, SQL, ETL, data analysis, LLM APIs, n8n, QA automation, test automation
+- Portfolio: https://reaver1000.github.io
+- LinkedIn: https://www.linkedin.com/in/david-a-buchan/
+- Hugging Face: https://huggingface.co/Reaver1000
